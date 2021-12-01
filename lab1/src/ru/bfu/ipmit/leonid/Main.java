@@ -1,4 +1,4 @@
-package ru.bfu.ipmit.vladislav;
+package ru.bfu.ipmit.Leonid;
 
 import com.google.common.hash.Hashing;
 
